@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gold-digger/static/css/main.3f6c829a.css",
-    "main.js": "/gold-digger/static/js/main.19c9483e.js",
+    "main.css": "/gold-digger/static/css/main.083f2709.css",
+    "main.js": "/gold-digger/static/js/main.31d9b2e3.js",
     "static/media/contract-bg.jpg": "/gold-digger/static/media/contract-bg.85082cd85483b614dac0.jpg",
     "static/media/footer-bg.png": "/gold-digger/static/media/footer-bg.1849046efd9116abdf24.png",
     "static/media/hero-bg.png": "/gold-digger/static/media/hero-bg.6eb2290b3e36c0ddeb68.png",
@@ -34,11 +34,11 @@
     "static/media/contract-item-num-bg.svg": "/gold-digger/static/media/contract-item-num-bg.8350222e46e92ce9a846.svg",
     "static/media/arrow-bottom.svg": "/gold-digger/static/media/arrow-bottom.b8980b9974e8eb5a1c76.svg",
     "static/media/arrow-bottom-mobile.svg": "/gold-digger/static/media/arrow-bottom-mobile.aed0cdaf1fbe429aa078.svg",
-    "main.3f6c829a.css.map": "/gold-digger/static/css/main.3f6c829a.css.map",
-    "main.19c9483e.js.map": "/gold-digger/static/js/main.19c9483e.js.map"
+    "main.083f2709.css.map": "/gold-digger/static/css/main.083f2709.css.map",
+    "main.31d9b2e3.js.map": "/gold-digger/static/js/main.31d9b2e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f6c829a.css",
-    "static/js/main.19c9483e.js"
+    "static/css/main.083f2709.css",
+    "static/js/main.31d9b2e3.js"
   ]
 }
