@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/gold-digger/static/css/main.4f2daa2b.css",
-    "main.js": "/gold-digger/static/js/main.273367a6.js",
+    "main.css": "/gold-digger/static/css/main.19c8ffba.css",
+    "main.js": "/gold-digger/static/js/main.02a94444.js",
+    "static/media/minergif.gif": "/gold-digger/static/media/minergif.053f227147bc379cef03.gif",
     "static/media/play-page-bg.jpg": "/gold-digger/static/media/play-page-bg.17afbec472a2c54485ee.jpg",
     "static/media/contract-bg.jpg": "/gold-digger/static/media/contract-bg.85082cd85483b614dac0.jpg",
     "static/media/footer-bg.png": "/gold-digger/static/media/footer-bg.1849046efd9116abdf24.png",
@@ -30,6 +31,7 @@
     "static/media/tether-crypto.svg": "/gold-digger/static/media/tether-crypto.65d8b582d27f1aafc8e54ad88b223d30.svg",
     "static/media/advantages-item-2.svg": "/gold-digger/static/media/advantages-item-2.f78ad4429b2767e316bd66465d979c2b.svg",
     "static/media/advantages-item-4.svg": "/gold-digger/static/media/advantages-item-4.e2e89032ea268ed56b0bab9ec4ce26a2.svg",
+    "static/media/bnb-item-1.svg": "/gold-digger/static/media/bnb-item-1.daac9d6863a0062b84533c4c09904790.svg",
     "static/media/pickaxe-mini.svg": "/gold-digger/static/media/pickaxe-mini.a9a2fb792b144a868078299043a9485a.svg",
     "static/media/footer-contract.svg": "/gold-digger/static/media/footer-contract.92d57f76e866cdf5df9087a8fad1b3bf.svg",
     "static/media/advantages-item-1.svg": "/gold-digger/static/media/advantages-item-1.4afed53f1fddee17e5c342ce1e3d4b62.svg",
@@ -41,13 +43,13 @@
     "index.html": "/gold-digger/index.html",
     "static/media/contract-item-num-bg.svg": "/gold-digger/static/media/contract-item-num-bg.8350222e46e92ce9a846.svg",
     "static/media/close-svg.svg": "/gold-digger/static/media/close-svg.f058ff1c9c93e02666be51dc415d4904.svg",
-    "static/media/arrow-bottom.svg": "/gold-digger/static/media/arrow-bottom.b8980b9974e8eb5a1c76.svg",
+    "static/media/arrow-bottom.svg": "/gold-digger/static/media/arrow-bottom.b8980b9974e8eb5a1c76d3dd2d4d9c6b.svg",
     "static/media/arrow-bottom-mobile.svg": "/gold-digger/static/media/arrow-bottom-mobile.aed0cdaf1fbe429aa078.svg",
-    "main.4f2daa2b.css.map": "/gold-digger/static/css/main.4f2daa2b.css.map",
-    "main.273367a6.js.map": "/gold-digger/static/js/main.273367a6.js.map"
+    "main.19c8ffba.css.map": "/gold-digger/static/css/main.19c8ffba.css.map",
+    "main.02a94444.js.map": "/gold-digger/static/js/main.02a94444.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f2daa2b.css",
-    "static/js/main.273367a6.js"
+    "static/css/main.19c8ffba.css",
+    "static/js/main.02a94444.js"
   ]
 }
