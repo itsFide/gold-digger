@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gold-digger/static/css/main.be2f2b63.css",
-    "main.js": "/gold-digger/static/js/main.614a09ff.js",
+    "main.js": "/gold-digger/static/js/main.1b6078e1.js",
     "static/media/minergif.gif": "/gold-digger/static/media/minergif.053f227147bc379cef03.gif",
     "static/media/play-page-bg.jpg": "/gold-digger/static/media/play-page-bg.17afbec472a2c54485ee.jpg",
     "static/media/contract-bg.jpg": "/gold-digger/static/media/contract-bg.85082cd85483b614dac0.jpg",
@@ -48,10 +48,10 @@
     "static/media/arrow-bottom.svg": "/gold-digger/static/media/arrow-bottom.b8980b9974e8eb5a1c76d3dd2d4d9c6b.svg",
     "static/media/arrow-bottom-mobile.svg": "/gold-digger/static/media/arrow-bottom-mobile.aed0cdaf1fbe429aa078.svg",
     "main.be2f2b63.css.map": "/gold-digger/static/css/main.be2f2b63.css.map",
-    "main.614a09ff.js.map": "/gold-digger/static/js/main.614a09ff.js.map"
+    "main.1b6078e1.js.map": "/gold-digger/static/js/main.1b6078e1.js.map"
   },
   "entrypoints": [
     "static/css/main.be2f2b63.css",
-    "static/js/main.614a09ff.js"
+    "static/js/main.1b6078e1.js"
   ]
 }
